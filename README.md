@@ -1,1 +1,15 @@
-# coding-challenges
+# coding-challenges 
+
+📌 **Решения задач с LeetCode** на Python, Java и C++.  
+
+## 📊 Статистика  
+- **Всего решено:** 11  
+- **Easy:** 9  
+- **Medium:** 2   
+
+## 🗂 Структура  
+/coding-challenges
+├── easy/
+│ └── ...
+├── medium/
+│ └── ...
