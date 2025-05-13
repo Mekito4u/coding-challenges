@@ -1,0 +1,22 @@
+# .gitignore
+
+### Python ###
+__pycache__/       # Кэш Python
+*.py[cod]          # Файлы компиляции Python (*.pyc, *.pyo, *.pyd)
+*.so               # Скомпилированные расширения
+*.egg-info/        # Метаданные пакетов Python
+venv/              # Виртуальное окружение
+.python-version    # Файл для pyenv
+
+### IDE ###
+.idea/             # JetBrains (PyCharm, IntelliJ)
+.vscode/           # Visual Studio Code
+*.swp              # Vim временные файлы
+*.swo              # Vim временные файлы
+.DS_Store          # macOS служебный файл
+Thumbs.db          # Windows служебный файл
+
+### Системные файлы ###
+*.log              # Логи
+*.tmp              # Временные файлы
+*.bak              # Резервные копии
