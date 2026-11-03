@@ -1,10 +1,22 @@
-# coding-challenges
+# 🧩 Coding Challenges
 
-📌 **Решения задач с LeetCode и CodeRun** на Python, Java, C++ и Kotlin
+Решения задач с LeetCode и CodeRun на C++, Kotlin и Python.
 
-## 📊 Статистика
+## Всего решено: 37
 
-* **Всего решено:** 37
-* **Easy:** 31
-* **Medium:** 6
-
+```mermaid
+pie title По сложности
+    "Easy" : 31
+    "Medium" : 6
+```
+```mermaid
+pie title По категориям
+    "Прочее" : 11
+    "Массивы" : 10
+    "Строки" : 6
+    "Математика" : 4
+    "Хеш-таблицы" : 3
+    "Связные списки" : 1
+    "Деревья" : 1
+    "Битовые операции" : 1
+```
