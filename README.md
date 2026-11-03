@@ -1,8 +1,10 @@
-# coding-challenges 
+# coding-challenges
 
-📌 **Решения задач с LeetCode и CodeRun** на Python, Java, C++ и Kotlin  
+📌 **Решения задач с LeetCode и CodeRun** на Python, Java, C++ и Kotlin
 
-## 📊 Статистика  
-- **Всего решено:** 35  
-- **Easy:** 29  
-- **Medium:** 6   
+## 📊 Статистика
+
+* **Всего решено:** 36
+* **Easy:** 30
+* **Medium:** 6
+
